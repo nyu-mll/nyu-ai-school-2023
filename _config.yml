@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "NYU AI School"
 email: "nyuaischool@gmail.com"
 description: "NYU AI School"
-baseurl: "/nyu-ai-school-2022"
+baseurl: "/nyu-ai-school-2023"
 url: "https://nyu-mll.github.io"
 permalink: "/blog/:title"
 
@@ -36,7 +36,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "NYU AI School"
-eventDate: "January 10 - 14, 2022"
+eventDate: "May 31 - June 4, 2023"
 typeoutTextValues: 'NYU AI School'
 
 # About Block
