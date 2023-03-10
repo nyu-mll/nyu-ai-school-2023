@@ -1,3 +1,9 @@
+# Updates for NYU AI School 2023
+
+How to set up a Github Pages site
+1. Go to Settings > Code and Automation - Pages > Branch - master and enable the deployment of a github pages site.
+2. If you are working from a clone of a past NYU AI School repository, you will need to update the `baseurl` parameter to set it to a new URL from the `_config.yml` file in the root folder of the repository.
+
 # Updates for NYC AI Workshop 2021
 
 ```
