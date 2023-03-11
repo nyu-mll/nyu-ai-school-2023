@@ -54,39 +54,3 @@ id: 7
   company: "New York University"
   thumbnailUrl: divyam.png
   social: {name: "site", link: "https://dmadaan.com/"}
-- 
-#   id: 5
-#   name: "Ilia"
-#   surname: "Kulikov"
-#   company: "New York University"
-#   thumbnailUrl: ilia.jpeg
-#   social: {name: "site", link: "https://iliakulikov.ru/"}
-# - 
-#   id: 7
-#   name: "Nikita"
-#   surname: "Nangia"
-#   company: "New York University"
-#   thumbnailUrl: nikita.png
-#   social: {name: "site", link: "https://woollysocks.github.io/"}
-# - 
-#   id: 9
-#   name: "Jason"
-#   surname: "Phang"
-#   company: "New York University"
-#   thumbnailUrl: jasonp.png
-#   social: {name: "site", link: "https://jasonphang.com/"}
-# - 
-#   id: 10
-#   name: "Harvineet"
-#   surname: "Singh"
-#   company: "New York University"
-#   thumbnailUrl: harvineet.png
-#   social: {name: "site", link: "https://harvineet.github.io/"}
-# - 
-#   id: 11
-#   name: "Alex"
-#   surname: "Wang"
-#   company: "New York University"
-#   thumbnailUrl: alex.jpg
-#   social: {name: "site", link: "https://w4ngatang.github.io/"}
-    
