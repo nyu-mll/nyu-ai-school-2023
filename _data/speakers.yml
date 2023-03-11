@@ -13,9 +13,10 @@
   surname: "Deng"
   company: "Harvard University"
   title: "Ph.D. Student"
-  bio: "<a href='https://yuntiandeng.com/'>Yuntian's</a> research aims at enabling ubiquitous long-form text generation, where anyone can produce a document on any topic with just a few clicks. To achieve this goal, my research focuses on the following three directions, utilizing advances in deep learning combined with probabilistic modeling: long form coherence, transparent generation, and efficient systems. He also works on open-source projects such as OpenNMT, Im2LaTeX, LaTeX2Im, and Steganography to make his research efforts more readily available for developers and researchers. 
+  bio: "<a href='https://yuntiandeng.com/'>Yuntian's</a> research aims at enabling ubiquitous long-form text generation, where anyone can produce a document on any topic with just a few clicks. To achieve this goal, my research focuses on the following three directions, utilizing advances in deep learning combined with probabilistic modeling: long form coherence, transparent generation, and efficient systems. He also works on open-source projects such as OpenNMT, Im2LaTeX, LaTeX2Im, and Steganography to make his research efforts more readily available for developers and researchers."
   thumbnailUrl: yuntian.jpg
   rockstar: true
+-
 #   id: 1
 #   name: "Emily"
 #   surname: "Denton"
