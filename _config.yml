@@ -29,7 +29,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://bit.ly/website-nyu-ai-school-2022", text: "Apply"}
+ - {link: "https://bit.ly/nyuaischool23", text: "Apply"}
  - {link: "https://colab.research.google.com/drive/1ePJEuccG-igb3jMk5XxwCr73E0I4yXZ3?usp=sharing", text: "Assignment"}
 # - {permalink: "/team/", text: "Team"}
 
