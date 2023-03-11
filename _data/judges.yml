@@ -41,14 +41,14 @@
   thumbnailUrl: bing.png
   social: {name: "site", link: "https://scholar.google.com/citations?user=337w9-V_WxIC&hl=en"}
 -
-id: 5
+id: 6
   name: "Tejas"
   surname: "Mahajan"
   company: "New York University"
   thumbnailUrl: tejas.png
   social: {name: "site", link: "https://tjdevworks.github.io/"}
 -
-id: 5
+id: 7
   name: "Divyam"
   surname: "Madaan"
   company: "New York University"
