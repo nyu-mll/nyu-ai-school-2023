@@ -17,15 +17,15 @@
   name: "Claudia"
   surname: "Skok-Gibbs"
   company: "New York University"
-  thumbnailUrl: 
-  social: {name: "site", link: ""}
+  thumbnailUrl: claudia.png
+  social: {name: "site", link: "https://www.linkedin.com/in/claudia-skok-gibbs-3a8905104/"}
 -
   id: 3
   name: "Lavender"
   surname: "Jiang"
   company: "New York University"
-  thumbnailUrl: 
-  social: {name: "site", link: ""}
+  thumbnailUrl: lavender.png
+  social: {name: "site", link: "https://lavenderjiang.github.io/"}
 -
   id: 4
   name: "Richard"
@@ -38,22 +38,22 @@
   name: "Bing"
   surname: "Yan"
   company: "New York University"
-  thumbnailUrl: 
-  social: {name: "site", link: ""}
+  thumbnailUrl: bing.png
+  social: {name: "site", link: "https://scholar.google.com/citations?user=337w9-V_WxIC&hl=en"}
 -
 id: 5
   name: "Tejas"
   surname: "Mahajan"
   company: "New York University"
-  thumbnailUrl: 
-  social: {name: "site", link: ""}
+  thumbnailUrl: tejas.png
+  social: {name: "site", link: "https://tjdevworks.github.io/"}
 -
 id: 5
   name: "Divyam"
   surname: "Madaan"
   company: "New York University"
-  thumbnailUrl: 
-  social: {name: "site", link: ""}
+  thumbnailUrl: divyam.png
+  social: {name: "site", link: "https://dmadaan.com/"}
 - 
 #   id: 5
 #   name: "Ilia"
