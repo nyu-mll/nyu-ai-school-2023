@@ -24,7 +24,7 @@
   name: "Lavender"
   surname: "Jiang"
   company: "New York University"
-  thumbnailUrl: lavender.png
+  thumbnailUrl: lavender.jpg
   social: {name: "site", link: "https://lavenderjiang.github.io/"}
 -
   id: 4
@@ -54,3 +54,11 @@
   company: "New York University"
   thumbnailUrl: divyam.png
   social: {name: "site", link: "https://dmadaan.com/"}
+-
+  id: 8
+  name: "Abhipsha"
+  surname: "Das"
+  company: "New York University"
+  thumbnailUrl: abhipsha.jpeg
+  social: {name: "site", link: "https://www.linkedin.com/in/abhipsha-das"}
+
