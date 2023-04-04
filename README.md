@@ -18,6 +18,14 @@ How to set up a Github Pages site
     bundle exec rake site:serve  # serve the site (using a custom rake cmd)
 ```
 
+# Adding new speakers
+
+- Add their details under [_data/speakers.yml](_data/speakers.yml)
+- Add their image under [img/people/](img/people/) (remember to use the extension when linking this image under speaker data)
+
+# Adding new organizers
+
+- Same as above, except add organizers under [_data/judges.yml](_data/judges.yml)
 
 # Project Zeppelin / GDG DevFest 2014 site template
 
