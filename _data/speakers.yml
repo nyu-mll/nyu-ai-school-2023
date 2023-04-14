@@ -7,6 +7,15 @@
 #   bio: "<a href='https://kyunghyuncho.me/'>Kyunghyun</a> is an associate professor of computer science and data science at New York University and CIFAR Fellow of Learning in Machines & Brains. He is also a senior director of frontier research at the Prescient Design team within Genentech Research & Early Development (gRED). He was a research scientist at Facebook AI Research from June 2017 to May 2020 and a postdoctoral fellow at University of Montreal until Summer 2015 under the supervision of Prof. Yoshua Bengio, after receiving PhD and MSc degrees from Aalto University April 2011 and April 2014, respectively, under the supervision of Prof. Juha Karhunen, Dr. Tapani Raiko and Dr. Alexander Ilin. He tries his best to find a balance among machine learning, natural language processing, and life, but almost always fails to do so."
 #   thumbnailUrl: cho.jpg
 #   rockstar: true
+-
+  id: 1
+  name: "Karl L."
+  surname: "Sangwon"
+  company: "New York University | OLab"
+  title: "Medical Student"
+  bio: "<a href='https://karlsangwon.github.io/'>Karl</a> is a Medical Student at NYU Grossman School of Medicine, who has an interest in Artificial Intelligence research. He's currently working on using Stable Diffusion model for augmenting medical data and predicting future course of MRI images of Brain Metastases post-treatment, as well as improving our understanding of cerebrovascular flow in STA-MCA bypass using FLOW800 metrics. His main passion lies in augmenting modern medicine using advanced technologies, to create a more 21-century-like ‘cyberpunk’ medical paradigm that fits my vision."
+  thumbnailUrl: karl.jpg
+  rockstar: true
 - 
   id: 2
   name: "Yuntian"
