@@ -45,13 +45,13 @@
   title: "<a href=''>Fairness and Transparency</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [1]
+  speakers: [3]
 -
   id: 006
   title: "<a href=''>Applied AI Lightning Talks</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: 
+  speakers: [1]
 -
   id: 402
   title: "Lunch"
