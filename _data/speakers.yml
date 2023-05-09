@@ -25,6 +25,15 @@
   bio: "<a href='https://yuntiandeng.com/'>Yuntian's</a> research aims at enabling ubiquitous long-form text generation, where anyone can produce a document on any topic with just a few clicks. To achieve this goal, my research focuses on the following three directions, utilizing advances in deep learning combined with probabilistic modeling: long form coherence, transparent generation, and efficient systems. He also works on open-source projects such as OpenNMT, Im2LaTeX, LaTeX2Im, and Steganography to make his research efforts more readily available for developers and researchers."
   thumbnailUrl: yuntian.jpg
   rockstar: true
+- 
+  id: 3
+  name: "Carlos"
+  surname: "Fernandez-Granda"
+  company: "New York University"
+  title: "Associate Professor"
+  bio: "<a href='https://cims.nyu.edu/~cfgranda/'>Carlos</a> focuses on the design and analysis of data-science methodology. Currently, the main focus of my group is machine learning, and its application to medicine, climate science and scientific imaging."
+  thumbnailUrl: carlos.jpg
+  rockstar: true
 -
 #   id: 1
 #   name: "Emily"
