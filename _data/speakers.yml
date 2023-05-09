@@ -38,9 +38,9 @@
   id: 4
   name: "Margarita"
   surname: "Boyarskaya"
-  company: "New York University"
-  title: "Associate Professor"
-  bio: "Margarita's research centers on building socially equitable AI systems. In particular, she focuses on achieving fair (anti-discriminatory) decision-making and on ensuring data quality."
+  company: "JP Morgan AI Research Lab"
+  title: "Sr. Research Associate"
+  bio: "Margarita Boyarskaya is a Senior Research Associate at JPMorgan AI Research lab, where she is a member of the XAI group. She works on developing methods for fair and explainable AI, focusing on algorithmic recourse and applications in consumer finance.Margarita did her doctoral studies at NYU Stern dept. of Technology, Operations, and Statistics, where she was a recipient of the Fubon fellowship. Previously, she collaborated with the FATE lab at Microsoft Research and co-developed a Breakthrough Tech Machine Learning course at Cornell Tech. Margarita's interests include AI regulation and governance."
   thumbnailUrl: margarita.jpeg
   rockstar: true
 -
