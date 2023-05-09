@@ -9,7 +9,7 @@
   title: "<a href=''>Fundamental Concepts for AI</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [8]
+  speakers: [3]
 -
   id: 100
   title: "<a href=''>Panel: Building a Career in AI</a>"
@@ -45,7 +45,7 @@
   title: "<a href=''>Fairness and Transparency</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [3]
+  speakers: [8]
 -
   id: 006
   title: "<a href=''>Applied AI Lightning Talks</a>"
