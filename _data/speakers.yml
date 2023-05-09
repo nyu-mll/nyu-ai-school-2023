@@ -34,6 +34,24 @@
   bio: "<a href='https://cims.nyu.edu/~cfgranda/'>Carlos</a> focuses on the design and analysis of data-science methodology. Currently, the main focus of my group is machine learning, and its application to medicine, climate science and scientific imaging."
   thumbnailUrl: carlos.jpeg
   rockstar: true
+- 
+  id: 4
+  name: "Margarita"
+  surname: "Boyarskaya"
+  company: "New York University"
+  title: "Associate Professor"
+  bio: "Margarita's research centers on building socially equitable AI systems. In particular, she focuses on achieving fair (anti-discriminatory) decision-making and on ensuring data quality."
+  thumbnailUrl: margarita.jpeg
+  rockstar: true
+-
+  id: 5
+  name: "Andrea"
+  surname: "Jones-Rooy"
+  company: "New York University"
+  title: "Visiting Associate Professor"
+  bio: "<a href='http://www.jonesrooy.com/'>Andrea</a> is a social scientist, comedian, and circus performer."
+  thumbnailUrl: andrea.jpeg
+  rockstar: true
 -
 #   id: 1
 #   name: "Emily"
