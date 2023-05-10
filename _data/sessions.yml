@@ -42,7 +42,7 @@
   speakers:
 -
   id: 005
-  title: "<a href=''>Fairness and Transparency</a>"
+  title: "<a href=''>An introduction to Algorithmic Fairness and Responsible AI</a>"
   subtype: presentation
   description: "Lecture"
   speakers: [4]
