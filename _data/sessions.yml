@@ -21,7 +21,7 @@
   title: "<a href=''>Deep Learning I: Computer Vision</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [4]
+  speakers:
 -
   id: 004
   title: "<a href=''>Deep Learning II: Natural Language Processing</a>"
