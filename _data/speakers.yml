@@ -53,6 +53,15 @@
   thumbnailUrl: AJR.jpg
   rockstar: true
 -
+  id: 6
+  name: "Claudia"
+  surname: "Claudia Skok-Gibbs"
+  company: "New York University"
+  title: "PhD Student"
+  bio: "claudia's awesome bio coming soon!"
+  thumbnailUrl: claudia.jpeg
+  rockstar: true
+-
 #   id: 1
 #   name: "Emily"
 #   surname: "Denton"
