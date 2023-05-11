@@ -58,7 +58,7 @@
   surname: "Claudia Skok-Gibbs"
   company: "New York University"
   title: "PhD Student"
-  bio: "claudia's awesome bio coming soon!"
+  bio: "Claudia is a 2nd year phd student at NYU Center for Data Science. Her research interest is exploring scalable and adaptable machine learning models for gene regulatory network inference. She is interested in applying these methods to extract information from single-cell genomics and chromatin structure to make useful predictions to inform wet lab biologists, drug discovery and targeted therapies. Outside of work, she loves running, baking, photography and adventures!"
   thumbnailUrl: claudia.jpeg
   rockstar: true
 -
