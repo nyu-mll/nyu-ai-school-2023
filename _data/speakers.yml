@@ -80,6 +80,15 @@
   thumbnailUrl: angelica.jpeg
   rockstar: true
 -
+  id: 10
+  name: "Yanis"
+  surname: "Bahroun"
+  company: "Flatiron Institute"
+  title: "Research Fellow"
+  bio: "<a href='linkedin.com/in/yanis-bahroun-ph-d-8737b05b/'>Yanis</a> is a Research Fellow at Flatiron Institute, part of both the Center for Computational Neuroscience and the Center for Computational Mathematics. My research interest is on developing biologically plausible learning algorithms that can map onto the brain. Based on anatomical and physiological neuroscience data, I have developed algorithms that model brain computation and solve machine learning tasks, such as transformation learning, which led to various NeurIPS publications."
+  thumbnailUrl: yanis.jpeg
+  rockstar: true
+-
 # -
 #   id: 1
 #   name: "Emily"
