@@ -70,15 +70,26 @@
   bio: "<a href='https://kyunghyuncho.me/'>Kyunghyun</a> is an associate professor of computer science and data science at New York University and CIFAR Fellow of Learning in Machines & Brains. He is also a senior director of frontier research at the Prescient Design team within Genentech Research & Early Development (gRED). He was a research scientist at Facebook AI Research from June 2017 to May 2020 and a postdoctoral fellow at University of Montreal until Summer 2015 under the supervision of Prof. Yoshua Bengio, after receiving PhD and MSc degrees from Aalto University April 2011 and April 2014, respectively, under the supervision of Prof. Juha Karhunen, Dr. Tapani Raiko and Dr. Alexander Ilin. He tries his best to find a balance among machine learning, natural language processing, and life, but almost always fails to do so."
   thumbnailUrl: cho.jpg
   rockstar: true
-  id: 1
-  name: "Emily"
-  surname: "Denton"
-  company: "Google"
-  title: "Senior Research Scientist"
-  bio: "<a href='https://cephaloponderer.com/'>Emily Denton</a> is a Senior Research Scientist at Google"
-  thumbnailUrl: emilydenton.jpeg
-  rockstar: true 
-- 
+-
+  id: 9
+  name: "Angelica"
+  surname: "Chen"
+  company: "New York University
+  title: "PhD Student"
+  bio: "<a href='https://angie-chen55.github.io/'>Angelica</a> is a PhD student at NYU Center for Data Science in the Machine Learning for Language group, advised by Sam Bowman and Kyunghyun Cho. I’m broadly interested in deep learning for natural language understanding, code generation, model robustness, and improved evaluation metrics for NLU models. I have also previously worked as a student researcher at Google Research (Jun-Dec. 2021) on streaming models for disfluency detection and at Google Brain (Jun. 2022-Mar. 2023) on LMs for neural architecture search (NAS)."
+  thumbnailUrl: angelica.jpeg
+  rockstar: true
+-
+# -
+#   id: 1
+#   name: "Emily"
+#   surname: "Denton"
+#   company: "Google"
+#   title: "Senior Research Scientist"
+#   bio: "<a href='https://cephaloponderer.com/'>Emily Denton</a> is a Senior Research Scientist at Google"
+#   thumbnailUrl: emilydenton.jpeg
+#   rockstar: true 
+# - 
 #   id: 2
 #   name: "Sabrina"
 #   surname: "Mielke"
