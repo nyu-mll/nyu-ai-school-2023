@@ -55,11 +55,20 @@
 -
   id: 6
   name: "Claudia"
-  surname: "Claudia Skok-Gibbs"
+  surname: "Skok-Gibbs"
   company: "New York University"
   title: "PhD Student"
   bio: "Claudia is a 2nd year phd student at NYU Center for Data Science. Her research interest is exploring scalable and adaptable machine learning models for gene regulatory network inference. She is interested in applying these methods to extract information from single-cell genomics and chromatin structure to make useful predictions to inform wet lab biologists, drug discovery and targeted therapies. Outside of work, she loves running, baking, photography and adventures!"
   thumbnailUrl: claudia.jpeg
+  rockstar: true
+-
+  id: 7
+  name: "Zahra"
+  surname: "Kadkhodaies"
+  company: "New York University"
+  title: "PhD Student"
+  bio: "Zahra Kadkhodaie is a PhD student in Center for Data Science (CDS) at NYU. Before joining the PhD program in 2020, she received two Master’s degrees from NYU, in Data Science and Psychology. Prior to that, she received a Bachelor’s degree in Physics from K.N.Toosi University in Tehran, Iran. Her main research interest is understanding and utilizing priors of images embedded in deep neural network generative models. Particularly, she has worked on locality, scale and generalization properties of priors implicit in denoiser neural networks as well as using these priors to solve inverse problems in an unsupervised fashion."
+  thumbnailUrl: zahra.jpeg
   rockstar: true
 -
 #   id: 1
