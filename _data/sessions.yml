@@ -21,7 +21,7 @@
   title: "<a href=''>Deep Learning I: Computer Vision</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [8]
+  speakers: [7]
 -
   id: 004
   title: "<a href=''>Deep Learning II: Natural Language Processing</a>"
@@ -30,7 +30,7 @@
   speakers: [2]
 -
   id: 101
-  title: "<a href=''>Panel: Bumpy Road to AI Research</a>"
+  title: "<a href=''>Panel: Pathways in ML research Research</a>"
   description: "Fireside Chat"
   subtype: panel
   speakers: [8]
