@@ -74,7 +74,7 @@
   id: 9
   name: "Angelica"
   surname: "Chen"
-  company: "New York University
+  company: "New York University"
   title: "PhD Student"
   bio: "<a href='https://angie-chen55.github.io/'>Angelica</a> is a PhD student at NYU Center for Data Science in the Machine Learning for Language group, advised by Sam Bowman and Kyunghyun Cho. I’m broadly interested in deep learning for natural language understanding, code generation, model robustness, and improved evaluation metrics for NLU models. I have also previously worked as a student researcher at Google Research (Jun-Dec. 2021) on streaming models for disfluency detection and at Google Brain (Jun. 2022-Mar. 2023) on LMs for neural architecture search (NAS)."
   thumbnailUrl: angelica.jpeg
