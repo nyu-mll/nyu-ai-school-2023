@@ -60,7 +60,7 @@
   surname: "Das"
   company: "New York University"
   thumbnailUrl: abhipsha.jpeg
-  social: {name: "site", link: "https://www.linkedin.com/in/abhipsha-das"
+  social: {name: "site", link: "https://www.linkedin.com/in/abhipsha-das"}
 -
   id: 9
   name: "Pat"
