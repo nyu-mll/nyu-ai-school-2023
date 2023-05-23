@@ -66,6 +66,6 @@
   name: "Pat"
   surname: "Feng"
   company: "New York University"
-  thumbnailUrl: pat.PNG
+  thumbnailUrl: pat.jpeg
   social: {name: "site", link: "https://www.linkedin.com/in/patrick-rei-feng-983837204/"}
 
