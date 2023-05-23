@@ -89,6 +89,14 @@
   thumbnailUrl: yanis.jpeg
   rockstar: true
 -
+  id: 11
+  name: "Bing"
+  surname: "Yan"
+  company: "New York University"
+  title: "PhD Student"
+  bio: "<a href='https://scholar.google.com/citations?user=337w9-V_WxIC&hl=en'>Bing</a> is a first-year Data Science PhD student co-advised by Kyunghyun Cho and Joan Bruna. She holds a PhD in chemsitry from MIT."
+  thumbnailUrl: bing.png
+  rockstar: true
 # -
 #   id: 1
 #   name: "Emily"
