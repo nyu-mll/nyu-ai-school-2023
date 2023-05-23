@@ -15,7 +15,7 @@
   title: "<a href=''>Panel: Pathways to ML research</a>"
   description: "Fireside Chat"
   subtype: panel
-  speakers: [8,9,10,11,12]
+  speakers: [8,9,10,11]
 -
   id: 003
   title: "<a href=''>Deep Learning I: Computer Vision</a>"
@@ -51,7 +51,7 @@
   title: "<a href=''>Applied AI Lightning Talks</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [1,6]
+  speakers: [1,6,12]
 -
   id: 402
   title: "Lunch"
