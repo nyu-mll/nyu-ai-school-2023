@@ -12,10 +12,10 @@
   speakers: [3]
 -
   id: 100
-  title: "<a href=''>Panel: Building a Career in AI</a>"
+  title: "<a href=''>Panel: Pathways to ML research</a>"
   description: "Fireside Chat"
   subtype: panel
-  speakers: [9,10,11,12,13,20]
+  speakers: [8,9,10,11]
 -
   id: 003
   title: "<a href=''>Deep Learning I: Computer Vision</a>"
