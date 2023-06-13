@@ -75,11 +75,10 @@
   company: "New York University"
   thumbnailUrl: chasity.jpeg
   social: {name: "site", link: "https://www.linkedin.com/in/chastity-hidalgo-029086136/"}
-  -
+-
   id: 11
   name: "Tiffany"
   surname: "Puntoompote"
   company: "New York University"
   thumbnailUrl: tiffany.png
   social: {name: "site", link: "https://cds.nyu.edu/staff-bios/#tif"}
-
